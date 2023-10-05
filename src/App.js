@@ -15,8 +15,8 @@ const CLASS_UML2 = {
   name: 'Dirección',
   attributes: ['+Calle:str', '+Cuidad:str', '+Código Postal:int' ],
   methods: ['+Validar()'],
-  borderColor: 'lightblue',
-  headColor: /* '#DC2DDE' */'lightblue',
+  borderColor: '#0000FF',
+  headColor: '#87CEEB',
   textColor: '#333333',
   bodyColor: '#FFFFFF'
 };
